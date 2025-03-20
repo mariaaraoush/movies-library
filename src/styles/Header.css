@@ -1,0 +1,22 @@
+a.active {
+  color: #ff0055 !important;
+  font-weight: 500 !important;
+}
+a {
+  color: white !important;
+}
+a:hover {
+  color: #ff0055 !important;
+}
+.my-menu {
+  background-color: transparent !important;
+}
+.my-menu a {
+  color: black !important;
+}
+.my-menu a.active {
+  color: #ff0055 !important;
+}
+.headerItems {
+  font-weight: 500 !important;
+}
